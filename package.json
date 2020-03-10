@@ -1,0 +1,22 @@
+{
+  "name": "fe",
+  "version": "1.0.0",
+  "description": "前端知识体系梳理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kscript/fe.git"
+  },
+  "keywords": [
+    "前端"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kscript/fe/issues"
+  },
+  "homepage": "https://github.com/kscript/fe#readme"
+}
