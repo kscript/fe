@@ -4,6 +4,8 @@
   "description": "前端知识体系梳理",
   "main": "index.js",
   "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/kscript/fe/issues"
   },
-  "homepage": "https://github.com/kscript/fe#readme"
+  "homepage": "https://github.com/kscript/fe#readme",
+  "devDependencies": {
+    "vuepress": "^1.2.0",
+    "vuepress-theme-reco": "^1.2.2"
+  }
 }
