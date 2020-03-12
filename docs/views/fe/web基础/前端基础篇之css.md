@@ -1,6 +1,6 @@
 ---
-title: second page in category2
-date: 2017-09-21
+title: 前端基础篇之css
+date: 2016-12-15
 tags:
  - 前端
  - css
