@@ -19,6 +19,13 @@ module.exports = {
         }
       ],
       [
+        "link",
+        {
+          "rel": "stylesheet",
+          "href": "/css/global.css"
+        }
+      ],
+      [
         "script",
         {
           "src": "/js/music.js"
